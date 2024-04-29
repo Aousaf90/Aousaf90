@@ -1,11 +1,13 @@
 ### Hi there 👋
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.]() Hey, I'm Aousaf Sulaman, a dedicated software engineer. I'm all about diving into exciting tech and striving to become a top-notch developer. Exciting journey ahead!
+ Hey, I'm Aousaf Sulaman, a dedicated software engineer. I'm all about diving into exciting tech and striving to become a top-notch developer. Exciting journey ahead!
 
 
 ** 📫 How to reach me:**
-- [Linkedin](www.linkedin.com/in/aousaf-sulaman)
-- [Gmail](aousafsuleman@gmail.com)
-- [Upwork](https://www.upwork.com/freelancers/~010d54cb4ff3f1a84e?mp_source=share)
+
+
+[![LINKEDIN](assets/icons8-linkedin-48.png)](https://www.linkedin.com/in/aousaf-sulaman)
+[![Gmail](assets/icons8-gmail-48.png)](https://mail.google.com/mail/?view=cm&fs=1&to=aousafsuleman@gmail.com)
+[![Upwork](assets/icons8-upwork.png)](https://www.upwork.com/freelancers/~010d54cb4ff3f1a84e?mp_source=share)
   
 
 **Professional Experience**
