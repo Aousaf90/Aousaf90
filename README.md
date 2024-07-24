@@ -24,15 +24,17 @@
 - [SmartTutorZone](https://github.com/Aousaf90/smart_tutor_zone.git) Welcome to Smart Tutor Zone, your go-to E-Learning Platform for convenient and fast-paced learning experiences. Build in Flutter and Firebase
 
   
-**Languages & Frameworks**
+** Frameworks working Experienceß**
 - _Mobile App Developement_ (Flutter / Dart Programming Language)
 - _Django BackEnd FrameWork_
+- FastAPI
+- Laravel
+- LangChain/LangGraph
 - _**Programming Language**_
   - _Dart_
   - _Python_
-  - _Java_
   - _JavaScript_
-  - _C++_
+  - php
     
 
 **Architecture & Core Design**
